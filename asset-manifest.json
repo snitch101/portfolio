@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.e840541f.css",
-    "main.js": "/portfolio/static/js/main.132a3a21.js",
+    "main.js": "/portfolio/static/js/main.c8a501b9.js",
     "static/media/astronaut-mid.png": "/portfolio/static/media/astronaut-mid.91dd8d7d9d01cb453ad4.png",
     "static/media/telephone.jpg": "/portfolio/static/media/telephone.4665434b33430237a863.jpg",
     "static/media/hero.png": "/portfolio/static/media/hero.5d18be396f80923d75a7.png",
     "index.html": "/portfolio/index.html",
     "main.e840541f.css.map": "/portfolio/static/css/main.e840541f.css.map",
-    "main.132a3a21.js.map": "/portfolio/static/js/main.132a3a21.js.map"
+    "main.c8a501b9.js.map": "/portfolio/static/js/main.c8a501b9.js.map"
   },
   "entrypoints": [
     "static/css/main.e840541f.css",
-    "static/js/main.132a3a21.js"
+    "static/js/main.c8a501b9.js"
   ]
 }
